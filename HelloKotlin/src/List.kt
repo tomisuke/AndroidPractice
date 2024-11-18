@@ -13,4 +13,7 @@ fun main() {
     //場所指定して削除
     list.removeAt(0)
     println(list)
+    //要素指定して削除
+    list.remove(100)
+    println(list)
 }
