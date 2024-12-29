@@ -17,7 +17,7 @@ fun main() {
     //2重ループ
     for(i in 0 ..10 step 2){
         for(j in 10 downTo 0 step 2){
-
+            println(i*j)
         }
     }
 }
