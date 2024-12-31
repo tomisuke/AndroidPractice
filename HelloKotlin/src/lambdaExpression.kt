@@ -14,6 +14,7 @@ fun main() {
     val num = funcB(10, ::funcA) // 高階関数、10をfuncAに渡す
     println(num)
     val num2 = funcB(10) { x: Int -> x + 1 } // 10を{}内のxに渡す
+
     println(num2)
     // ラムダ式の引数が1つしかない場合、itに置き換えられる。(10をitに渡す)
     val num3 = funcB(10) { it + 1 }
