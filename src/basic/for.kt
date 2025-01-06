@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     //カウントアップ
     for(i in 0 .. 10){

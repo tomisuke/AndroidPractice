@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     //PairをTripleに置き換えることで、3つの戻り値を扱うこともできる。
     //2つの値の名前を設定する方法

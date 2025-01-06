@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     //リストとForを組み合わせる
     val array = arrayOf("りんご", "みかん", "ぶどう")

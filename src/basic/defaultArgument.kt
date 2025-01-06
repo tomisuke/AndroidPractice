@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     //デフォルト引数:引数が渡されなかった場合に使用する値
     val num = calc()

@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     //ラムダ式
     println(calcC(5, 10) { x: Int, y: Int -> x + y })

@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     println( union(1, 2, 3, 4))
 

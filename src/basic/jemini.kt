@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     var product = 1
     for (i in 1..5) {

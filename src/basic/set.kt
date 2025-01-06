@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
     //基本Listと同じ
     //順番の概念がなく、要素の重複を許可しない。

@@ -1,3 +1,5 @@
+package basic
+
 //一般的に配列よりリストを使うらしい。
 fun main() {
     val list1: List<Int> = listOf(1,2,3,4,5)//変更不可能
